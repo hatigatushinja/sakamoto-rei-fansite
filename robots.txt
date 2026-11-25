@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sakamoto-rei-fansite.pages.dev/sitemap.xml
